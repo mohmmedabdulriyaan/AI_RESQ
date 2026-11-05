@@ -1,0 +1,31 @@
+text,category,priority
+"Water entered the ground floor and my grandparents cannot climb the stairs",flood,Critical
+"Our car stalled in the flooded underpass and water is coming in",flood,Critical
+"Knee deep water on our street, everyone at home is fine",flood,Moderate
+"River water reached the temple steps, people moving to higher ground",flood,High
+"Two kids clinging to a tree in the flood stream",flood,Critical
+"Smoke and flames from the third floor flat, an old man still inside",fire,Critical
+"Fire in the paddy straw heap behind the house, spreading towards the cattle shed",fire,High
+"The electric pole on our street is sparking and a small fire started",fire,High
+"Smell of burning plastic in the neighbourhood, no flames seen",fire,Low
+"Woman collapsed in the temple queue, not responding",medical,Critical
+"My father has severe chest pain and his left arm is numb",medical,Critical
+"Child with high fever and rash since two days",medical,Moderate
+"Labour pains started, ambulance not reachable because of the flood",medical,Critical
+"Elderly man with a broken leg after slipping in the mud",medical,High
+"Lorry hit a bus near the toll plaza, several people bleeding",accident,Critical
+"Scooter hit a cow, rider has a bruised knee",accident,Low
+"Car rammed into the divider, driver trapped behind the steering wheel",accident,Critical
+"Auto overturned in a pothole, passengers shaken but walking",accident,Moderate
+"Big banyan tree uprooted, both lanes blocked",road_blockage,High
+"Hillside soil slipped onto the road, buses stopped on both sides",road_blockage,High
+"Fallen branches on the colony road, cars can pass slowly",road_blockage,Moderate
+"Live wire hanging over the bus stop after the storm",road_blockage,Critical
+"Shelter at the school has no drinking water since morning for 150 people",supplies,High
+"We need dry rations for four families whose huts collapsed",supplies,Moderate
+"Infants at the relief camp need milk powder",supplies,High
+"Requesting sanitary kits for the women at the community hall",supplies,Moderate
+"Person stuck inside the collapsed shop, we can hear him calling",other,Critical
+"Child fell into the open drain and is missing",other,Critical
+"Loud music from the function hall at midnight",other,Low
+"Testing the app, please ignore this report",other,Low

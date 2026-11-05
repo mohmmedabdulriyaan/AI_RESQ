@@ -1,0 +1,28 @@
+text,category,priority
+One person is not breathing after a road accident.,medical,Critical
+Two people injured in a crash. Help needed.,accident,High
+"There is no fire here, everyone is safe.",other,Low
+"House on fire, smoke everywhere, two children inside",fire,Critical
+"Water is rising in our colony, the ground floor is submerged",flood,High
+"Family of five stuck on the roof, water still rising, baby with us",flood,Critical
+Landslide has blocked the highway near the ghat section,road_blockage,High
+"Electric pole fell on the road, wires on the ground",road_blockage,High
+"Kitchen fire spreading to the next room, smoke filling the house",fire,High
+"Small garbage fire near the bus stop, nobody hurt",fire,Low
+Man collapsed at the market and is unconscious,medical,Critical
+"Elderly woman has a fracture after a fall, needs ambulance",medical,High
+"Pregnant woman in labour, roads flooded, cannot reach hospital",medical,Critical
+"Bike collided with an auto, rider bleeding from the head",accident,High
+"Bus overturned on the highway, many passengers injured",accident,Critical
+"Minor accident, two cars dented, no injuries",accident,Low
+Relief camp has run out of food for 200 people,supplies,High
+We need blankets and shelter for 3 families tonight,supplies,Moderate
+Shortage of medicine supply at the relief camp,supplies,Moderate
+Child drowning in the canal near the school,flood,Critical
+"Gas leak smell in the apartment block, people evacuating",fire,High
+"Debris blocking the lane after the storm, ambulance can't pass",road_blockage,High
+"False alarm, the water has receded and everyone is safe",other,Low
+Street light not working on main road,other,Low
+Old man trapped under a collapsed wall,medical,Critical
+"Flooded underpass, a car is stuck with a driver inside",flood,Critical
+Need drinking water for the elderly residents of ward 4,supplies,Moderate

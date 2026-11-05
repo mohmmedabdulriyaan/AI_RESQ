@@ -1,0 +1,117 @@
+text,category,priority
+"Our house is surrounded by floodwater. Four people are trapped, including an elderly person.",flood,Critical
+"A tree has fallen across the road, blocking vehicle movement.",road_blockage,High
+We need drinking water and food supplies at our location.,supplies,Moderate
+Flood water entered our house and we are stuck on the first floor,flood,Critical
+Three people trapped in a car swept by flood water,flood,Critical
+"Water level rising fast near the river bank, houses at risk",flood,High
+"Our street is waterlogged after heavy rain, knee deep water",flood,Moderate
+"Village submerged, families on rooftops waiting for boats",flood,Critical
+"Basement flooded in the apartment, water pump not working",flood,Moderate
+"Flash flood near the bridge, two people swept away",flood,Critical
+"Lake overflowing into the colony, people moving to higher floors",flood,High
+"Rain water collected on the road, vehicles moving slowly",flood,Low
+"Old couple stranded in flooded house, cannot walk",flood,Critical
+"School ground flooded, children sent home safely",flood,Low
+"Flood water reached the hospital ground floor, patients being shifted",flood,High
+"Canal breach, water entering farmland and nearby huts",flood,High
+"Drain overflowing on our lane, smells bad but no danger",flood,Low
+"Boat needed, five members including infant stranded by flood",flood,Critical
+"Water inside the house up to the waist, we are on the bed",flood,Critical
+"Low lying area flooded, residents need evacuation",flood,High
+"Fire broke out in the godown, flames are very high",fire,High
+Building on fire and people are trapped on the third floor,fire,Critical
+Smoke coming from the transformer near our house,fire,Moderate
+"Hut caught fire, mother and baby still inside",fire,Critical
+"Short circuit fire in the shop, shutter closed",fire,High
+Forest fire moving towards the village,fire,High
+"Bike caught fire on the road, rider escaped safely",fire,Moderate
+"Cylinder blast in the kitchen, person badly burned",fire,Critical
+"Fire in the factory, workers unable to get out",fire,Critical
+"Small fire in the dustbin, already put out",fire,Low
+Burning smell from the electric meter board,fire,Moderate
+"Car on fire in the parking lot, nobody inside",fire,Moderate
+Fire spreading through the market stalls quickly,fire,High
+"LPG gas leaking strongly, everyone left the building",fire,High
+Thick black smoke from the chemical plant,fire,High
+"Grass fire near the railway track, under control",fire,Low
+Man has chest pain and is sweating heavily,medical,Critical
+Woman fainted in the bus stand and is not responding,medical,Critical
+Child has high fever and is shivering,medical,Moderate
+"Snake bite on the farmer's leg, he is feeling dizzy",medical,Critical
+Old man fell in the bathroom and cannot stand,medical,High
+Person having a seizure on the street,medical,Critical
+"Boy cut his hand, bleeding a lot",medical,High
+Diabetic patient needs insulin urgently,medical,High
+"Pregnant woman having severe pain, no vehicle available",medical,Critical
+"Mild headache and cough, need advice",medical,Low
+"Someone is not breathing, we started CPR",medical,Critical
+"Heat stroke, worker collapsed at the construction site",medical,Critical
+"Patient on oxygen, power cut, cylinder running out",medical,Critical
+"Dog bite on a child, wound is small",medical,Moderate
+"Food poisoning, ten students vomiting at the hostel",medical,High
+Elderly neighbour has not eaten in two days and is weak,medical,Moderate
+"Sprained ankle while playing, can walk slowly",medical,Low
+"Car hit a tree, driver stuck inside and bleeding",accident,Critical
+"Two bikes collided at the junction, one rider unconscious",accident,Critical
+"Truck overturned on the highway, driver injured",accident,High
+"Auto rickshaw hit a pedestrian, leg injury",accident,High
+Minor scratch accident between two scooters,accident,Low
+"Bus and lorry collision, many people hurt",accident,Critical
+"Cyclist knocked down by a car, conscious but in pain",accident,High
+"Car skidded into the ditch, passengers came out safely",accident,Low
+"Tractor overturned in the field, farmer pinned under it",accident,Critical
+"Pile up on the expressway, several vehicles damaged",accident,High
+"Hit and run, man lying on the road",accident,Critical
+"School van met with accident, kids crying, some injured",accident,Critical
+"Bike slipped on the wet road, rider has bruises",accident,Moderate
+"Fender bender at the signal, traffic jam",accident,Low
+"Huge tree fell on the main road, no vehicles can pass",road_blockage,High
+Rocks fell on the ghat road after rain,road_blockage,High
+"Road caved in near the bridge, big pothole",road_blockage,High
+"Branches fallen on the lane, bikes can still pass",road_blockage,Moderate
+Mud slide blocked the only road to our village,road_blockage,High
+Fallen tree blocking the ambulance route to the hospital,road_blockage,Critical
+Electric wires hanging low across the street,road_blockage,High
+Construction debris left on the road at night,road_blockage,Moderate
+Waterlogged underpass closed to traffic,road_blockage,Moderate
+Billboard fell across the road during the storm,road_blockage,High
+Sand heap on the road corner causing slow traffic,road_blockage,Low
+"Bridge damaged, cracks visible, vehicles still using it",road_blockage,High
+"Tree fell on a parked car, road partly blocked",road_blockage,Moderate
+"Road blocked by fallen pole, sparks visible",road_blockage,Critical
+Signal not working at the circle,road_blockage,Low
+Relief camp needs rice and dal for 300 people,supplies,High
+Our family has no food since yesterday,supplies,High
+"Need clean drinking water, tap water is muddy",supplies,Moderate
+Baby food and milk needed at the shelter,supplies,High
+"Need tarpaulin sheets, roof blown off",supplies,Moderate
+Request for sanitary pads and soap at the camp,supplies,Moderate
+Running out of drinking water in the colony for two days,supplies,High
+"Need candles and torches, power cut since morning",supplies,Low
+Diapers and clothes needed for children in the camp,supplies,Moderate
+Medicines for blood pressure needed for elderly at the shelter,supplies,Moderate
+Mobile charging point needed at the relief centre,supplies,Low
+Fodder needed for cattle stranded by flood,supplies,Moderate
+"Hundreds of people hungry at the school shelter, no food delivered",supplies,High
+Need mosquito nets at the camp,supplies,Low
+"Blankets needed for night, it is very cold",supplies,Moderate
+"Want to donate food packets, where to send",supplies,Low
+Street dog barking all night,other,Low
+Just checking if this app works,other,Low
+Lost my phone near the bus stand,other,Low
+Noise from the wedding hall late at night,other,Low
+Garbage not collected for a week,other,Low
+"Everything is fine now, no help needed",other,Low
+"There was smoke but it was only a barbecue, all safe",other,Low
+"Wrong report, please ignore",other,Low
+Stray cattle sitting on the road,other,Low
+Power cut in our area since one hour,other,Low
+Water supply timing changed in our ward,other,Low
+"Building wall collapsed, workers buried under it",other,Critical
+Lift stuck between floors with four people inside,other,High
+Child locked inside a car in the sun,other,Critical
+Person threatening to jump from the building,other,Critical
+Missing elderly man with memory loss,other,High
+Boy fell into an open borewell,other,Critical
+"Wall cracked after the earthquake, family scared to go in",other,Moderate
